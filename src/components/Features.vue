@@ -1,9 +1,9 @@
 <template>
-     <section class="bg-bookmark-purple py-20 mt-20 pb-60 lg:mt-60">
+     <section class="bg-bookmark-blue py-20 mt-20 pb-60 lg:mt-60">
         <!-- Heading-->
         <div class="sm:w-3/4 lg:w-5/12 mx-auto px-2">
-            <h1 class="text-4xl text-center text-bookmark-white">Features</h1>
-            <p class="text-center text-bookmark-grey mt-4">From professional podcasting to music recording, gaming and even sound for video, Yeti takes your projects to the heights of studio quality.</p>
+            <h1 class="text-4xl text-center text-bookmark-white">Nossos Serviços</h1>
+            <p class="text-center text-bookmark-grey mt-4">Oferecemos soluções personalizadas de transporte, incluindo carga lotação e rastreamento em tempo real. Nossa tecnologia otimiza processos para entregas eficientes e confiáveis. Conte conosco para um transporte de qualidade, impulsionado pela inovação.</p>
         </div>
         <!-- Feature #1-->
         <div class="relative mt-20 lg:mt-24">
@@ -14,9 +14,9 @@
                 </div>
                 <!-- Content-->
                 <div class="flex flex-1 flex-col items-center lg:items-start">
-                    <h1 class="text-3xl text-bookmark-white">Full control of the recording</h1>
-                    <p class="text-bookmark-grey my-4 text-center lg:text-left sm:w-3/4 lg:w-full">Yeti features studio controls for headphone volume, directionality selection, instant mute and microphone gain - giving you control over all aspects of the recording process.</p>
-                    <p class="text-bookmark-grey my-4 text-center lg:text-left sm:w-3/4 lg:w-full">The microphone is equipped with a 3.5-millimeter mini-jack for headphones that allows you to listen to what you are recording in real time, without latency.</p>
+                    <h1 class="text-3xl text-bookmark-white">Controle Total da Operação</h1>
+                    <p class="text-bookmark-grey my-4 text-center lg:text-left sm:w-3/4 lg:w-full">Na Popov Transportes, garantimos sua satisfação com um controle total da operação. Nossa tecnologia de rastreamento avançado proporciona visibilidade em tempo real, permitindo que você planeje e decida com confiança. Utilizamos sistemas modernos para otimizar cada etapa, assegurando entregas pontuais e eficiência.</p>
+                    <p class="text-bookmark-grey my-4 text-center lg:text-left sm:w-3/4 lg:w-full"> Com a Popov Transportes, você está no comando, e nossa dedicação é superar suas expectativas em cada remessa.</p>
                     <button type="button" class="btn btn-red hover:bg-bookmark-white hover:text-black">More Info</button>
                 </div>
             </div>
