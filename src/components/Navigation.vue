@@ -3,8 +3,8 @@
     
     <div class="py-1"><img src="../assets/images/white-logo.png" width="120" alt="podcast logo"></div>
       <ul class="hidden sm:flex flex-1 justify-end items-center gap-12 text-bookmark-blue uppercase text-xs">
-        <li class="cursor-pointer text-white">Sobre nós</li>
-        <li class="cursor-pointer text-white">Clientes</li>
+        <li class="cursor-pointer text-white">Nossos Serviços</li>
+        <li class="cursor-pointer text-white">Endereço</li>
         <li class="cursor-pointer text-white">Comprometimento</li>
         <button type="button" class="bg-bookmark-red text-white rounded-md px-7 py-3 uppercase">Fale Conosco</button>
       </ul>
