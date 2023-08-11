@@ -1,7 +1,7 @@
 <template>
    <nav class="container flex items-center py-4 mt-4 sm:mt-12">
     
-    <div class="py-1"><img src="../assets/images/LOGO PRATEADO PNG.png" width="120" alt="podcast logo"></div>
+    <div class="py-1"><img src="../assets/images/silver-logo.png" width="120" alt="podcast logo"></div>
       <ul class="hidden sm:flex flex-1 justify-end items-center gap-12 text-bookmark-blue uppercase text-xs">
         <li class="cursor-pointer text-white">Sobre nós</li>
         <li class="cursor-pointer text-white">Clientes</li>
