@@ -59,7 +59,7 @@
         <!-- Feature #1-->
         <div class="flex flex-1 justify-center z-10 mb-10 lg:mb-0">
           <iframe
-            class="rounded-lg"
+            class="rounded-lg flex flex-1 justify-center z-10 mb-10 lg:mb-0"
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3662.9972343470295!2d-51.16579132385243!3d-23.35211475393978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94eb4320b03c0001%3A0xcb99e40d3214f44e!2sPopov%20Transportes!5e0!3m2!1spt-BR!2sbr!4v1691787008195!5m2!1spt-BR!2sbr"
             width="600"
             height="450"
@@ -110,6 +110,7 @@
         <div class="flex flex-1 justify-center z-10 mb-10 lg:mb-0">
           <div>
             <iframe
+              class="rounded-lg flex flex-1 justify-center z-10 mb-10 lg:mb-0"
               src="https://www.instagram.com/p/Cv0SRzNPE_s/embed"
               width="500"
               height="600"
