@@ -5,9 +5,9 @@
       <h1 class="text-4xl text-center text-bookmark-white">Nossos Serviços</h1>
       <p class="text-center text-bookmark-grey mt-4">
         Oferecemos soluções personalizadas de transporte, incluindo carga
-        lotação, fracionadas e rastreamento em tempo real. Nossa tecnologia otimiza processos
-        para entregas eficientes e confiáveis. Conte conosco para um transporte
-        de qualidade, impulsionado pela inovação.
+        lotação, fracionadas e rastreamento em tempo real. Nossa tecnologia
+        otimiza processos para entregas eficientes e confiáveis. Conte conosco
+        para um transporte de qualidade, impulsionado pela inovação.
       </p>
     </div>
     <!-- Feature #1-->
@@ -97,7 +97,7 @@
       </div>
       <!-- Rounded rectangle -->
       <div
-        class="hidden lg:block overflow-hidden bg-bookmark-dark rounded-l-full absolute h-80 w-2/4 -bottom-24 -right-36"
+        class="hidden md:block overflow-hidden bg-bookmark-red rounded-l-full absolute h-80 w-2/4 top-32 right-0 lg:-bottom-28 lg:-right-30"
       ></div>
     </div>
 
