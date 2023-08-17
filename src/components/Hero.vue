@@ -2,7 +2,7 @@
   <section class="relative ">
     
     <div
-      class="container flex flex-col-reverse lg:flex-row items-center pag-12 mt-14 lg:mt-28 "
+      class="scroll-smooth container flex flex-col-reverse lg:flex-row items-center pag-12 mt-14 lg:mt-28 "
     >
 
 
