@@ -18,6 +18,7 @@
         <!-- Feature #1-->
         <div class="flex flex-1 justify-center z-10 mb-10 lg:mb-0">
           <img
+            draggable="false"
             src="../assets/images/logistics.png"
             alt=""
             class="w-5/6 h-5/6 sm:w-3/4 sm:3/4 md:w-full md:h-full rounded-md"
