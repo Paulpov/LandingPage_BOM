@@ -1,5 +1,6 @@
 <template>
   <Navigation />
+
   <Hero />
   <Features />
   <Contact />
@@ -9,6 +10,7 @@
 
 <script setup>
 import Navigation from '../components/Navigation.vue';
+import Background from '../components/Background.vue';
 import Hero from '../components/Hero.vue';
 import Features from '../components/Features.vue';
 import Contact from '../components/Contact.vue';
