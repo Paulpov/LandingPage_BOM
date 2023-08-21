@@ -48,7 +48,7 @@
                     leave-to="opacity-0 scale-95"
                   >
                     <DialogPanel
-                      class="w-full max-w-md transform overflow-hidden rounded-2xl bg-white p-6 text-left align-middle shadow-xl transition-all"
+                      class="w-full max-w-md transform overflow-hidden rounded-2xl bg-white p-6 text-center align-middle shadow-xl transition-all"
                     >
                       <DialogTitle as="h3" class="text-2xl text-center">
                         Nossos Contatos
@@ -61,7 +61,7 @@
 
                         <hr class="mt-4" />
 
-                        <div class="justify-center">
+                        <div class="justify-center align-middle">
                           <div
                             class="flex flex-col sm:flex-row gap-6 mt-8 inset-0 flex items-center"
                           >

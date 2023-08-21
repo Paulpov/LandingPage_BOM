@@ -9,7 +9,7 @@
         
 
 
-      <div class="flex flex-1 flex-col items-center lg:items-start ">
+      <div class="flex flex-1 flex-col items-center lg:items-start">
 
         
             
@@ -18,7 +18,7 @@
         <h2
           class="text-white text-3xl md:text-4 leg:text-5xl text-center lg:text-left mb-6"
         >
-          Popov Transportes.
+          Popov Transportes
         </h2>
         <p class="text-bookmark-grey text-lg text-center lg:text-left mb-6">
           com mais de 10 anos no mercado, destaca-se no setor de transporte pela

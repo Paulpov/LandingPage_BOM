@@ -72,21 +72,21 @@
         </div>
         <!-- Content-->
         <div class="flex flex-1 flex-col items-center lg:items-start">
-          <h1 class="text-3xl text-bookmark-white">Faça uma Visita!</h1>
+          <h1 class="text-3xl text-bookmark-white">Nosso Endereço</h1>
           <p
             class="text-bookmark-grey my-4 text-center lg:text-left sm:w-3/4 lg:w-full"
           >
-            Nosso Endereço.
+            Faça uma visita!
           </p>
           <p
             class="text-bookmark-grey my-4 text-center lg:text-left sm:w-3/4 lg:w-full"
           >
-            Nosso portão está aberto para você! Venha nos visitar na
+            Nosso portão está aberto para você! Venha nos visitar.
           </p>
           <p
             class="text-bookmark-grey my-4 text-center lg:text-left sm:w-3/4 lg:w-full capitalize uppercase font-bold"
           >
-            Rua Pedro Botelho de Rezende, 2583 - Burle Marx, Londrina/PR.
+            <a href="https://maps.app.goo.gl/Gd6nc8QN17fqBeVYA?g_st=iw">Rua Pedro Botelho de Rezende, 2583 - Burle Marx, Londrina/PR.</a> 
           </p>
           <p
             class="text-bookmark-grey my-4 text-center lg:text-left sm:w-3/4 lg:w-full"

@@ -1,6 +1,7 @@
 <template>
    <nav class="container flex items-center py-4 mt-4 sm:mt-12">
     
+    
     <div class="scroll-smooth py-1"><img draggable="false" src="../assets/images/white-logo.png" width="120" alt="podcast logo"></div>
       <ul class="hidden sm:flex flex-1 justify-end items-center gap-12 text-bookmark-blue uppercase text-xs">
         <li class="cursor-pointer text-white"> <a href="#servicos">Nossos Serviços</a></li>
