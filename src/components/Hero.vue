@@ -1,20 +1,13 @@
 <template>
-  <section class="relative ">
+  <section class="relative">
     
     <div
-      class="scroll-smooth container flex flex-col-reverse lg:flex-row items-center pag-12 mt-14 lg:mt-28 "
-    >
+      class="scroll-smooth container flex flex-col-reverse lg:flex-row items-center pag-12 mt-14 lg:mt-28"
+    > 
 
-
-        
-
-
-      <div class="flex flex-1 flex-col items-center lg:items-start">
+      <div class="flex flex-1 flex-col items-center lg:items-start ">
 
         
-            
-
-
         <h2
           class="text-white text-3xl md:text-4 leg:text-5xl text-center lg:text-left mb-6"
         >
