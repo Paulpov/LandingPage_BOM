@@ -1,13 +1,19 @@
 <template>
-  <section class="relative">
-    
+  <section
+    class="relative background-section"
+    style="
+      background-image: url('https://i.imgur.com/V6iTfqV.png');
+      background-size: cover;
+      background-position: center;
+      min-height: 700px;
+    "
+  >
     <div
-      class="scroll-smooth container flex flex-col-reverse lg:flex-row items-center pag-12 mt-14 lg:mt-28"
-    > 
-
-      <div class="flex flex-1 flex-col items-center lg:items-start ">
-
-        
+      class="scroll-smooth container flex flex-col-reverse lg:flex-row items-center pag-12"
+    >
+      <div
+        class="flex flex-1 flex-col items-center lg:items-start mt-14 lg:mt-28"
+      >
         <h2
           class="text-white text-3xl md:text-4 leg:text-5xl text-center lg:text-left mb-6"
         >
@@ -61,7 +67,5 @@ function closeModal() {
 function openModal() {
   isOpen.value = true;
 }
-
-
 </script>
 

@@ -1,5 +1,5 @@
 <template>
-   <nav class="container flex items-center py-4 mt-4 sm:mt-12">
+   <nav class="container flex items-center py-4 ">
     
     
     <div class="scroll-smooth py-1"><img draggable="false" src="../assets/images/white-logo.png" width="120" alt="podcast logo"></div>
