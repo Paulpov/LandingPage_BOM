@@ -42,10 +42,10 @@
         <a href="#endereco" class="inline-block px-6 py-2">Endereço</a>
       </li>
       <li class="cursor-pointer text-white">
-        <a href="#comprometimento" class="inline-block px-6 py-2">Comprometimento</a>
+        <a href="#partners" class="inline-block px-6 py-2">Nossos Clientes</a>
       </li>
       <li class="cursor-pointer text-white">
-        <a href="#partners" class="inline-block px-6 py-2">Nossos Clientes</a>
+        <a href="#comprometimento" class="inline-block px-6 py-2">Comprometimento</a>
       </li>
       <button
         @click="openModal"
