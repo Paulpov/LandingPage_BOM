@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-bookmark-dark text-white py-20">
+  <section class="bg-bookmark-dark text-white py-20" id="contact">
     <div class="container">
       <div class="sm:w-3/4 lg:w-2/4 mx-auto">
 
@@ -48,7 +48,7 @@
                     leave-to="opacity-0 scale-95"
                   >
                     <DialogPanel
-                      class="w-full max-w-md transform overflow-hidden rounded-2xl bg-white p-6 text-center align-middle shadow-xl transition-all"
+                      class="w-full max-w-md mx-auto mt-20 transform overflow-hidden rounded-2xl bg-white p-6 text-left align-middle shadow-xl transition-all"
                     >
                       <DialogTitle as="h3" class="text-2xl text-center">
                         Nossos Contatos

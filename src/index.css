@@ -18,3 +18,25 @@
     @apply bg-bookmark-red text-white;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
+/* Garante que o modal esteja centralizado vertical e horizontalmente */
+.fixed.inset-0.overflow-y-auto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Estilização adicional para o DialogPanel para garantir um bom padding e centralização */
+.dialog-panel {
+    margin: auto;
+    padding: 20px;
+    background: white;
+    /* Ou qualquer cor de fundo que desejar */
+    border-radius: 8px;
+    /* Para bordas arredondadas */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    /* Sombra suave para um pouco de profundidade */
+}

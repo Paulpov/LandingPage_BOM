@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-bookmark-blue py-20 pb-60 ">
+  <section class="bg-bookmark-blue py-20 pb-60 " id="services">
     <!-- Heading-->
     <div id="servicos" class="scroll-smooth sm:w-3/4 lg:w-5/12 mx-auto px-2">
       <h1 class="text-4xl text-center text-bookmark-white">Nossos Serviços</h1>

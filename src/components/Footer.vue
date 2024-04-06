@@ -1,5 +1,5 @@
 <template>
-    <footer class="bg-bookmark-dark py-8">
+    <footer class="bg-bookmark-dark py-8" id="footer">
         <div id="contato" class="scroll-smooth container flex flex-col md:flex-row items-center">
             <div class="flex flex-1 flex-wrap items-center justify-center md:justify-start gap-12 text-white uppercase text-xs">
                 <img draggable="false" src="../assets/images/brand-logo.png" alt="podcast icon" width="40">

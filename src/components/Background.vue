@@ -1,5 +1,5 @@
 <template>
-  <section class="relative">
+  <section class="relative" id="background">
     <!-- Background image -->
     <div
       class="bg-image"

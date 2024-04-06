@@ -7,6 +7,7 @@
       background-position: center;
       min-height: 700px;
     "
+    id="sobre"
   >
     <div
       class="scroll-smooth container flex flex-col-reverse lg:flex-row items-center pag-12"
