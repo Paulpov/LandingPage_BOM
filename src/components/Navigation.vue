@@ -44,6 +44,9 @@
       <li class="cursor-pointer text-white">
         <a href="#comprometimento" class="inline-block px-6 py-2">Comprometimento</a>
       </li>
+      <li class="cursor-pointer text-white">
+        <a href="#partners" class="inline-block px-6 py-2">Nossos Clientes</a>
+      </li>
       <button
         @click="openModal"
         type="button"
