@@ -6,7 +6,7 @@ module.exports = {
       colors: {
         "bookmark-purple": "#1e1b4b",
         "bookmark-red": "#990000",
-        "bookmark-blue": "#001433",
+        "bookmark-blue": "#0b131c",
         "bookmark-grey": "#9194A2",
         "bookmark-white": "#F7F7F7",
         "bookmark-dark": "#02080C",

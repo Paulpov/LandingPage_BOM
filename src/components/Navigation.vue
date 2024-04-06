@@ -1,5 +1,5 @@
 <template>
-   <nav class="container max-w-7xl mx-auto flex flex-col sm:flex-row items-center py-4">
+   <nav class="container max-w-7xl mx-auto flex flex-col sm:flex-row items-center py-4 ">
 
     <div class="w-full flex justify-between items-center">
       <div class="scroll-smooth py-1">

@@ -2,7 +2,7 @@
   <section
     class="relative background-section"
     style="
-      background-image: url('https://i.imgur.com/6OBZES6.jpeg');
+      background-image: url('../FUNDO SITE.png');
       background-size: cover;
       background-position: center;
       min-height: 700px;
