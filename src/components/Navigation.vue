@@ -1,6 +1,7 @@
 <template>
-   <nav class="container max-w-7xl mx-auto flex flex-col sm:flex-row items-center py-4 ">
-
+  <nav
+    class="container max-w-7xl mx-auto flex flex-col sm:flex-row items-center py-4"
+  >
     <div class="w-full flex justify-between items-center">
       <div class="scroll-smooth py-1">
         <img
@@ -45,7 +46,9 @@
         <a href="#partners" class="inline-block px-6 py-2">Nossos Clientes</a>
       </li>
       <li class="cursor-pointer text-white">
-        <a href="#comprometimento" class="inline-block px-6 py-2">Comprometimento</a>
+        <a href="#comprometimento" class="inline-block px-6 py-2"
+          >Comprometimento</a
+        >
       </li>
       <button
         @click="openModal"
@@ -94,9 +97,11 @@
                   Abaixo estão nossos números e setores para melhor te atender!
                 </p>
                 <hr class="mt-4" />
-                <div class="flex flex-col sm:flex-row gap-6 mt-8">
+                <div
+                  class="flex flex-col sm:flex-row justify-between items-center gap-6 mt-8"
+                >
                   <p class="text-sm text-gray-500">
-                    Administração - (43) 99183-1471
+                    Administrativo
                   </p>
                   <a
                     href="whatsapp://send?phone=5543991831471&text=Olá, Vim pelo Site e Gostaria de Saber mais Sobre Questões Administrativas!"
@@ -104,17 +109,21 @@
                     >Enviar Mensagem</a
                   >
                 </div>
-                <div class="flex flex-col sm:flex-row gap-6 mt-8">
-                  <p class="text-sm text-gray-500">Fretes - (43) 99614-0507</p>
+                <div
+                  class="flex flex-col sm:flex-row justify-between items-center gap-6 mt-8"
+                >
+                  <p class="text-sm text-gray-500">Contracao de Fretes</p>
                   <a
                     href="whatsapp://send?phone=5543996140507&text=Olá, Vim pelo Site e Gostaria de Saber mais Sobre Questões de Frete!"
                     class="inline-flex justify-center rounded-md border border-transparent bg-green-100 px-4 py-2 text-sm font-medium text-green-900 hover:bg-green-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-green-500 focus-visible:ring-offset-2"
                     >Enviar Mensagem</a
                   >
                 </div>
-                <div class="flex flex-col sm:flex-row gap-6 mt-8">
+                <div
+                  class="flex flex-col sm:flex-row justify-between items-center gap-6 mt-8"
+                >
                   <p class="text-sm text-gray-500">
-                    Entregas - (43) 99867-5702
+                    Controle de Entrega
                   </p>
                   <a
                     href="whatsapp://send?phone=5543998675702&text=Olá, Vim pelo Site e Gostaria de Saber mais Sobre Questões de Entrega!"
