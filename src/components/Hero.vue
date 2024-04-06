@@ -6,9 +6,12 @@
       background-size: cover;
       background-position: center;
       min-height: 700px;
+      z-index: 1;
     "
     id="sobre"
   >
+  
+  <div class="absolute inset-0 bg-black opacity-20" style="z-index: 2;"></div>
     <div
       class="scroll-smooth container flex flex-col-reverse lg:flex-row items-center pag-12"
     >
@@ -20,7 +23,7 @@
         >
           Popov Transportes
         </h2>
-        <p class="text-bookmark-grey text-lg text-center lg:text-left mb-6">
+        <p class="text-bookmark-white text-lg text-center lg:text-left mb-6">
           com mais de 10 anos no mercado, destaca-se no setor de transporte pela
           qualidade, eficiência e abordagem humanizada no atendimento a clientes
           e colaboradores. A empresa promove um ambiente de trabalho saudável,
@@ -69,5 +72,3 @@ function openModal() {
   isOpen.value = true;
 }
 </script>
-
-
