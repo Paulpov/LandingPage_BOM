@@ -2,15 +2,15 @@
   <section class="bg-bookmark-dark text-white py-20" id="contact">
     <div class="container">
       <div class="sm:w-3/4 lg:w-2/4 mx-auto">
-
         <h1 class="text-2xl text-center">
           Fique Ligado e Inove suas parcerias
         </h1>
 
-        <p class="font-light uppercase text-center mb-8 mt-8">ENTRE EM CONTATO</p>
+        <p class="font-light uppercase text-center mb-8 mt-8">
+          ENTRE EM CONTATO
+        </p>
         <!-- Ini - Button Modal #1-->
         <div class="flex flex-col sm:flex-row gap-6 mt-8 justify-center">
-
           <div class="inset-0 flex items-center justify-center">
             <button
               type="button"
@@ -31,9 +31,8 @@
                 leave-from="opacity-100"
                 leave-to="opacity-0"
               >
-                <div class="fixed inset-0 bg-black bg-opacity-25" />
+                <div class="fixed inset-0 bg-black bg-opacity-25"></div>
               </TransitionChild>
-
               <div class="fixed inset-0 overflow-y-auto">
                 <div
                   class="flex min-h-full items-center justify-center p-4 text-center"
@@ -48,84 +47,60 @@
                     leave-to="opacity-0 scale-95"
                   >
                     <DialogPanel
-                      class="w-full max-w-md mx-auto mt-20 transform overflow-hidden rounded-2xl bg-white p-6 text-left align-middle shadow-xl transition-all"
+                      class="w-full max-w-md transform overflow-hidden rounded-2xl bg-white p-6 text-left align-middle shadow-xl transition-all"
                     >
-                      <DialogTitle as="h3" class="text-2xl text-center">
-                        Nossos Contatos
-                      </DialogTitle>
+                      <DialogTitle as="h3" class="text-2xl text-center"
+                        >Nossos Contatos</DialogTitle
+                      >
                       <div class="mt-4">
                         <p class="text-sm text-gray-500">
-                          Abaixo estão nossos numeros e setores para melhor te
+                          Abaixo estão nossos números e setores para melhor te
                           atender!
                         </p>
-
                         <hr class="mt-4" />
-
-                        <div class="justify-center align-middle">
-                          <div
-                            class="flex flex-col sm:flex-row gap-6 mt-8 inset-0 flex items-center"
+                        <div
+                          class="flex flex-col sm:flex-row justify-between items-center gap-6 mt-8"
+                        >
+                          <p class="text-sm text-gray-500">
+                            Controle de Entrega
+                          </p>
+                          <a
+                            href="whatsapp://send?phone=5543991831471&text=Olá, Vim pelo Site e Gostaria de Saber mais Sobre Questões Administrativas!"
+                            class="inline-flex justify-center rounded-md border border-transparent bg-green-100 px-4 py-2 text-sm font-medium text-green-900 hover:bg-green-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-green-500 focus-visible:ring-offset-2"
+                            >Enviar Mensagem</a
                           >
-                            <p class="text-sm text-gray-500">
-                              Administração - (43) 99183-1471
-                            </p>
-                            <button
-                              type="button"
-                              class="inline-flex justify-center rounded-md border border-transparent bg-green-100 px-4 py-2 text-sm font-medium text-green-900 hover:bg-green-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-green-500 focus-visible:ring-offset-2"
-                            >
-                              <a
-                                href="whatsapp://send?phone=5543991831471&text=Olá, Vim pelo Site e Gostaria de Saber mais Sobre Questões Admnistrativas!"
-                                >Enviar Mensagem</a
-                              >
-                            </button>
-                          </div>
-
-                          <div
-                            class="flex flex-col sm:flex-row gap-6 mt-8 inset-0 flex items-center"
+                        </div>
+                        <div
+                          class="flex flex-col sm:flex-row justify-between items-center gap-6 mt-8"
+                        >
+                          <p class="text-sm text-gray-500">
+                            Contracao de Fretes
+                          </p>
+                          <a
+                            href="whatsapp://send?phone=5543996140507&text=Olá, Vim pelo Site e Gostaria de Saber mais Sobre Questões de Frete!"
+                            class="inline-flex justify-center rounded-md border border-transparent bg-green-100 px-4 py-2 text-sm font-medium text-green-900 hover:bg-green-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-green-500 focus-visible:ring-offset-2"
+                            >Enviar Mensagem</a
                           >
-                            <p class="text-sm text-gray-500">
-                              Fretes - (43) 99614-0507
-                            </p>
-                            <button
-                              type="button"
-                              class="inline-flex justify-center rounded-md border border-transparent bg-green-100 px-4 py-2 text-sm font-medium text-green-900 hover:bg-green-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-green-500 focus-visible:ring-offset-2"
-                            >
-                              <a
-                                href="whatsapp://send?phone=5543996140507&text=Olá, Vim pelo Site e Gostaria de Saber mais Sobre Questões de Frete!"
-                                >Enviar Mensagem</a
-                              >
-                            </button>
-                          </div>
-
-                          <div
-                            class="flex flex-col sm:flex-row gap-6 mt-8 inset-0 flex items-center "
+                        </div>
+                        <div
+                          class="flex flex-col sm:flex-row justify-between items-center gap-6 mt-8"
+                        >
+                          <p class="text-sm text-gray-500">Administrativo</p>
+                          <a
+                            href="whatsapp://send?phone=5543998675702&text=Olá, Vim pelo Site e Gostaria de Saber mais Sobre Questões de Entrega!"
+                            class="inline-flex justify-center rounded-md border border-transparent bg-green-100 px-4 py-2 text-sm font-medium text-green-900 hover:bg-green-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-green-500 focus-visible:ring-offset-2"
+                            >Enviar Mensagem</a
                           >
-                            <p class="text-sm text-gray-500">
-                              Entregas - (43) 99867-5702
-                            </p>
-                            <button
-                              type="button"
-                              class="inline-flex justify-center rounded-md border border-transparent bg-green-100 px-4 py-2 text-sm font-medium text-green-900 hover:bg-green-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-green-500 focus-visible:ring-offset-2"
-                            >
-                              <a
-                                href="whatsapp://send?phone=5543998675702&text=Olá, Vim pelo Site e Gostaria de Saber mais Sobre Questões de Entrega!"
-                                >Enviar Mensagem</a
-                              >
-                            </button>
-                          </div>
                         </div>
                       </div>
-
-                      <div class="mt-4"></div>
                     </DialogPanel>
                   </TransitionChild>
                 </div>
               </div>
             </Dialog>
           </TransitionRoot>
-        <!-- Fim - Button Modal #1-->
-
+          <!-- Fim - Button Modal #1-->
         </div>
-
       </div>
     </div>
   </section>

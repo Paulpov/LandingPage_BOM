@@ -101,7 +101,7 @@
                   class="flex flex-col sm:flex-row justify-between items-center gap-6 mt-8"
                 >
                   <p class="text-sm text-gray-500">
-                    Administrativo
+                    Controle de Entrega
                   </p>
                   <a
                     href="whatsapp://send?phone=5543991831471&text=Olá, Vim pelo Site e Gostaria de Saber mais Sobre Questões Administrativas!"
@@ -123,7 +123,7 @@
                   class="flex flex-col sm:flex-row justify-between items-center gap-6 mt-8"
                 >
                   <p class="text-sm text-gray-500">
-                    Controle de Entrega
+                    Administrativo
                   </p>
                   <a
                     href="whatsapp://send?phone=5543998675702&text=Olá, Vim pelo Site e Gostaria de Saber mais Sobre Questões de Entrega!"
